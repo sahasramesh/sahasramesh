@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=000000&random=false&width=435&lines=Artificial+Intelligence;Cognitive+Science;UI+%2F+UX+Development)](https://git.io/typing-svg)
+[![Sahas's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/sahasramesh/github-readme-stats)
